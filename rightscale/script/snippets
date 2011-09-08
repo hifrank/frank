@@ -1,0 +1,4 @@
+# test if file exists, have a backup first.
+[ -e /etc/syslog-ng/syslog-ng.conf ] && mv -f /etc/syslog-ng/syslog-ng.conf /etc/syslog-ng/syslog-ng.conf.bak.$(date "+%Y%m%d%H%M%S")
+
+
