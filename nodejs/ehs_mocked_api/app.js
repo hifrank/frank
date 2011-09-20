@@ -57,7 +57,7 @@ var createPromotion = function(guids){
 		fs.mkdirSync(promotion_data_dir,'744');
 		console.log("create directory:"+promotion_data_dir);
 	}
-        files.sort();
+        files.sort(function(a,b){return a - b});
 	//change pid when there are already promotions.
 	if (files && files.length >= 1){
 		pid = parseInt(files[files.length-1])+1;
