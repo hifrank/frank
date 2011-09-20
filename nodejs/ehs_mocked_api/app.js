@@ -80,8 +80,8 @@ app.post('/api/v1/promotion', function(req, res){
 		msg = '{"reason": "required fields not provided"}'
 		code = 400;
 	}
-	//when guid == d42a7b5d-0672-4460-901a-749ff540c3e0, it return db connection fail.
-	else if ('d42a7b5d-0672-4460-901a-749ff540c3e0' === postData.guid) {
+	//when guid == d40, it return db connection fail.
+	else if ('d450' === postData.guid) {
 		msg = '{"reason": "Could not connect to database"}';
 		code = 500;
 	}
