@@ -1,0 +1,70 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=www.htcsense.com/CN=htcsense.com/serialNumber=16003518/1.3.6.1.4.1.311.60.2.1.3=TW/1.3.6.1.4.1.311.60.2.1.2=Taiwan/1.3.6.1.4.1.311.60.2.1.1=Taipei/businessCategory=Private Organization/C=TW/postalCode=330/ST=Taoyuan County/L=Taoyuan City/street=23 Xinghua Road/O=HTC,Corporation/OU=Hosted by Cotendo/OU=Comodo EV Multi-Domain SSL
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO Extended Validation Secure Server CA
+ 1 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO Extended Validation Secure Server CA
+   i:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO Certification Authority
+ 2 s:/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO Certification Authority
+   i:/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGWTCCBUGgAwIBAgIRAO4Oy84GFuYiNYxlp+6q0VMwDQYJKoZIhvcNAQEFBQAw
+gY4xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTQwMgYD
+VQQDEytDT01PRE8gRXh0ZW5kZWQgVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTExMDcyODAwMDAwMFoXDTEyMDcyNTIzNTk1OVowggFrMRkwFwYDVQQDExB3
+d3cuaHRjc2Vuc2UuY29tMRUwEwYDVQQDEwxodGNzZW5zZS5jb20xETAPBgNVBAUT
+CDE2MDAzNTE4MRMwEQYLKwYBBAGCNzwCAQMTAlRXMRcwFQYLKwYBBAGCNzwCAQIT
+BlRhaXdhbjEXMBUGCysGAQQBgjc8AgEBEwZUYWlwZWkxHTAbBgNVBA8TFFByaXZh
+dGUgT3JnYW5pemF0aW9uMQswCQYDVQQGEwJUVzEMMAoGA1UEERMDMzMwMRcwFQYD
+VQQIEw5UYW95dWFuIENvdW50eTEVMBMGA1UEBxMMVGFveXVhbiBDaXR5MRgwFgYD
+VQQJEw8yMyBYaW5naHVhIFJvYWQxGDAWBgNVBAoTD0hUQyxDb3Jwb3JhdGlvbjEa
+MBgGA1UECxMRSG9zdGVkIGJ5IENvdGVuZG8xIzAhBgNVBAsTGkNvbW9kbyBFViBN
+dWx0aS1Eb21haW4gU1NMMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+rplA2yhMwzgCxWVd8/fz9nZSytgnll6XSZdxwGZ2A83+8QVXoxxCoMSPJUj+rQjA
+c/8xjqd1RVKgMzDIfX+8tjhBXrSd9izdhmx602xvBcW9ISaICmqFqmwRVlkoTjF9
+gve+0frlmkNM1r2lxSJKC1q2Dr9ZjkmCsGHoBIB9h+oszd1nY9a6HGv3hOFdMVsi
+lc/MtNChdocj9Plpw/za71fG4OWMI8XnZB+qSNg/Hv2z3O6Z49PYSH3T6owjoWe4
+lDy99Dp70b9gKZwZjCV7c18x84gi4/8IdgbIPwnsGIVabTITZIszfBkBVszUDfqc
+zHv8yUM2RWFw5+SEGnhrKQIDAQABo4IB0DCCAcwwHwYDVR0jBBgwFoAUiERR/1Aq
+aV4tiPQhutkM8s7L6nwwHQYDVR0OBBYEFFlCTVOkxO2MZfvK0cyRM6ecoNz9MA4G
+A1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjBGBgNVHSAEPzA9MDsGDCsGAQQBsjEBAgEFATArMCkGCCsGAQUF
+BwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29tL0NQUzBTBgNVHR8ETDBKMEig
+RqBEhkJodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9DT01PRE9FeHRlbmRlZFZhbGlk
+YXRpb25TZWN1cmVTZXJ2ZXJDQS5jcmwwgYQGCCsGAQUFBwEBBHgwdjBOBggrBgEF
+BQcwAoZCaHR0cDovL2NydC5jb21vZG9jYS5jb20vQ09NT0RPRXh0ZW5kZWRWYWxp
+ZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2Nz
+cC5jb21vZG9jYS5jb20wKQYDVR0RBCIwIIIMaHRjc2Vuc2UuY29tghB3d3cuaHRj
+c2Vuc2UuY29tMA0GCSqGSIb3DQEBBQUAA4IBAQBYhgbZkWxo3wBDdh8tJXQrD7p0
+fmckuNiS6+KZemyHmremqATcRfvjnbSwON7EXSP6J0LSmUSiVKJ5fex/QZJCT9Cg
+0Tf969R9X3tnH6tSXNWk4xxB9+Mvm9/h3T7nC30kP5RoKZaJhM5dXFUgWYsD/FOr
+IZ1Ubd9RBazPBjxmtyAcgsG6fWg/jhg/2k8xHnO3Ba+aTi2fxG3y0XpvRzVZNrbg
+9tTEzcmDI5PyIUix+uIVq+YK+PuTF6Aq121W/eRiv42ECWpiC8pnDqoh4VfTYXl4
+Jl70OonUayq5oe5+S/Pbuumg/gS8e9TPSmf3wYL2AUiFAM7Rqf+qLA+5lt+9
+-----END CERTIFICATE-----
+subject=/CN=www.htcsense.com/CN=htcsense.com/serialNumber=16003518/1.3.6.1.4.1.311.60.2.1.3=TW/1.3.6.1.4.1.311.60.2.1.2=Taiwan/1.3.6.1.4.1.311.60.2.1.1=Taipei/businessCategory=Private Organization/C=TW/postalCode=330/ST=Taoyuan County/L=Taoyuan City/street=23 Xinghua Road/O=HTC,Corporation/OU=Hosted by Cotendo/OU=Comodo EV Multi-Domain SSL
+issuer=/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO Extended Validation Secure Server CA
+---
+No client certificate CA names sent
+---
+SSL handshake has read 4378 bytes and written 456 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES256-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : AES256-SHA
+    Session-ID: FF8C84E974D1935E4FB0DCC71DBC8DA2E0F6439C3EC1663930CFA9E3AD3E2B96
+    Session-ID-ctx: 
+    Master-Key: B205CDED6B8E96C73AAE94193A9E47DE262F86E33C2B43AB28EBB7ADFE60D12F9FD01335BE506B76D7D45AA2F608F097
+    Key-Arg   : None
+    Start Time: 1316685152
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---
