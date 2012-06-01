@@ -1,2 +1,0 @@
-# change file name in batch mode.
-find . -name "SceneBuilder*" -print0 |xargs -0 -t -I @@ echo @@ |sed 's/\(.*\)\/SceneBuilder.*/mv & \1\/SceneBuilder.xls/g' |sh
