@@ -1,0 +1,12 @@
+SITE
+  remote: http://community.opscode.com/api/v1
+  specs:
+    apt (1.4.2)
+    mongodb (0.11.0)
+      apt (>= 0.0.0)
+    redisio (1.0.3)
+
+DEPENDENCIES
+  mongodb (>= 0)
+  redisio (>= 0)
+
